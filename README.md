@@ -1,2 +1,2 @@
-# Strata-project
- Projeto de site usando HTML e CSS
+# site-strata
+ Site feito com HTML  e CSS
